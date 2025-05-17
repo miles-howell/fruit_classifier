@@ -15,9 +15,13 @@ The model is trained to classify fruit based on weight and color (0-green, 1-yel
 
 
 ### Requirements ###
-Python 3.x
-NumPy
-Understanding of derivatives, gradients, dot product
+* Python 3.x
+* NumPy
+* Understanding of
+  * Sigmoid Functions
+  * Derivatives
+  * Gradients
+  * Dot Product
 
 
 ### License ###
